@@ -9,9 +9,8 @@
 ```diff
 Hello World 👋
 
-@@ I'm StarlineBR @@
+@@ I'm RavenaStar @@
 + 📌 Living in Brazil 🇧🇷.
-- 📅 28/04
 ! 💻 I'm a computer technician.
 # 🎮 Technology lover, developer, musician and more...
 # 👽  Development / Programming as hobby.
