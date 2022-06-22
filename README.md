@@ -25,7 +25,7 @@ Hello World 👋
 [![Discord Badge](https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
 
 ---
-![Snake animation](https://github.com/StarlineBR/snake/blob/main/snake.svg)
+![Snake animation](https://github.com/StarlineBR/StarlineBR/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
 <details>
   <summary>Mais</summary>
