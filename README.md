@@ -30,11 +30,11 @@ Hello World 👋
 ![Snake animation](https://github.com/StarlineBR/StarlineBR/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
 <details>
-  <summary>Mais</summary>
+  <summary>Mais/More</summary>
 <details>
-  <summary>Contato</summary>
+  <summary>Contato/Contact</summary>
 <p align="center">
-A melhor maneira de entrar em contato comigo é entrando no meu servidor discord e, em seguida, me enviando um DM. Eu não aceito pedidos de amizade.
+A melhor maneira de entrar em contato comigo é entrando no meu servidor discord e, em seguida, me enviando um DM. Eu não aceito pedidos de amizade. The best way to contact me is by joining my discord server and then sending me a DM. I do not accept friend requests.
 </p>
 <p align="center">
 <a href="https://www.staralienbot.com"><img src="https://img.shields.io/badge/-WebSite%20StarAlien-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienbot.com"/></a>ﾠ
