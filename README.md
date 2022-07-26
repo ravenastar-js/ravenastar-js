@@ -34,12 +34,12 @@ Hello World 👋
 <details>
   <summary>Contato/Contact</summary>
 <p align="center">
-A melhor maneira de entrar em contato comigo é entrando no meu servidor discord e, em seguida, me enviando um DM. Eu não aceito pedidos de amizade. The best way to contact me is by joining my discord server and then sending me a DM. I do not accept friend requests.
+A melhor maneira de entrar em contato comigo é entrando no meu servidor discord e, em seguida, me enviando um DM. Eu não aceito pedidos de amizade.<br>The best way to contact me is by joining my discord server and then sending me a DM. I do not accept friend requests.
 </p>
 <p align="center">
-<a href="https://www.staralienbot.com"><img src="https://img.shields.io/badge/-WebSite%20StarAlien-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienbot.com"/></a>ﾠ
-<a href="https://discord.gg/pAMsAaG"><img src="https://img.shields.io/badge/-Servidor%20de%20suporte-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336"/></a>ﾠ
-<a href="https://discord.com/users/367893062812434432"><img src="https://img.shields.io/badge/-Perfil%20Ravena666-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://discord.com/users/367893062812434432"/></a>ﾠ
+<a href="https://www.staralienbot.com"><img src="https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienbot.com"/></a>ﾠ
+<a href="https://discord.gg/pAMsAaG"><img src="https://img.shields.io/badge/-Support%20server-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336"/></a>ﾠ
+<a href="https://discord.com/users/367893062812434432"><img src="https://img.shields.io/badge/-Profile%20Ravena666-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://discord.com/users/367893062812434432"/></a>ﾠ
 </p>
 </details>
 <details>
