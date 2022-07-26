@@ -15,7 +15,7 @@ Hello World 👋
 + 📌 Living in Brazil 🇧🇷.
 ! 💻 I'm a computer technician.
 # 🎮 Technology lover, developer, musician and more...
-# 👽  Development / Programming as hobby.
+# 👽  Developer by hobby.
 ```
 
 ### Spotify Playing 🎧
