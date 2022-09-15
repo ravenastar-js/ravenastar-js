@@ -2,16 +2,13 @@
 <src="https://api.panleyent.com/webence/widget/small/?id=367893062812434432"/><br>
 <img src="https://komarev.com/ghpvc/?username=StarlineBR&color=grey">
 </p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/367893062812434432.png" />
-</p>
     <p align="center"
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StarlineBR&theme=onedark" alt="StarlineBR" /></a> 
 
 ```diff
 Hello World 👋
 
-@@ I'm RavenaStar @@
+@@ I'm StarlineBR @@
 + 📌 Living in Brazil 🇧🇷.
 ! 💻 I'm a computer technician.
 # 🎮 Technology lover, developer, musician and more...
