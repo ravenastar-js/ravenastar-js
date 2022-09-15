@@ -36,7 +36,8 @@ A melhor maneira de entrar em contato comigo é entrando no meu servidor discord
 <p align="center">
 <a href="https://www.staralienbot.com"><img src="https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienbot.com"/></a>ﾠ
 <a href="https://discord.gg/pAMsAaG"><img src="https://img.shields.io/badge/-Support%20server-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336"/></a>ﾠ
-<a href="https://discord.com/users/367893062812434432"><img src="https://img.shields.io/badge/-Profile%20!RavenaStar👽-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://discord.com/users/367893062812434432"/></a>ﾠ
+<a href="https://discord.com/users/367893062812434432"><img src="https://img.shields.io/badge/-!RavenaStar👽-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://discord.com/users/367893062812434432"/></a>ﾠ
+<a href="https://linktr.ee/ravenastar"><img src="https://img.shields.io/badge/-RavenaStar👽-0080FF?style=flat-square&labelColor=0080FF&logo=linktree&logoColor=white&link=https://discord.com/users/367893062812434432"/></a>ﾠ
 </p>
 </details>
 <details>
