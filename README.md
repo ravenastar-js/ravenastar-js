@@ -8,7 +8,7 @@
 ```diff
 Hello World 👋
 
-@@ I'm StarlineBR @@
+@@ I'm StarlineBR/StarAlien @@
 + 📌 Living in Brazil 🇧🇷.
 ! 💻 I'm a computer technician.
 # 🎮 Technology lover, developer, musician and more...
