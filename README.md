@@ -1,14 +1,14 @@
 <p align="center"> 
 <src="https://api.panleyent.com/webence/widget/small/?id=367893062812434432"/><br>
-<img src="https://komarev.com/ghpvc/?username=StarlineBR&style=for-the-badge&color=blueviolet">
+<img src="https://komarev.com/ghpvc/?username=ravenastar-js&style=for-the-badge&color=blueviolet">
 </p>
     <p align="center"
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StarlineBR&theme=onedark" alt="StarlineBR" /></a> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravenastar-js&theme=onedark" alt="ravenastar-js" /></a> 
 
 ```diff
 Hello World 👋
 
-@@ I'm StarlineBR/StarAlien @@
+@@ I'm RavenaStar/StarAlien @@
 + 📌 Living in Brazil 🇧🇷.
 ! 💻 I'm a computer technician.
 # 🎮 Technology lover, developer, musician and more...
@@ -19,12 +19,12 @@ Hello World 👋
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&redirect=true)
 ---
 
-[![Github Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/StarlineBR)](https://github.com/StarlineBR)
+[![Github Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/ravenastar-js)](https://github.com/ravenastar-js)
 [![Website Badge](https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienbot.com)](https://www.staralienbot.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
 
 ---
-![Snake animation](https://github.com/StarlineBR/StarlineBR/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ravenastar-js/ravenastar-js/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
 <details>
   <summary>Mais/More</summary>
@@ -64,8 +64,8 @@ A melhor maneira de entrar em contato comigo é entrando no meu servidor discord
   </details>
 <details>
   <summary>Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarlineBR&layout=compact&theme=dracula"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=StarlineBR&show_icons=true&theme=dracula"><br>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StarlineBR&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenastar-js&layout=compact&theme=dracula"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravenastar-js&show_icons=true&theme=dracula"><br>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravenastar-js&theme=dracula">
 </details>
 </details>
