@@ -15,7 +15,7 @@ Hello World 👋
 # 👽  Developer by hobby.
 ```
 
-### Spotify: Playing 🎧
+### Spotify: Playing now 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&redirect=true)
 
 
