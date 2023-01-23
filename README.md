@@ -17,6 +17,9 @@ Hello World 👋
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&redirect=true)
+
+
+<a href="(https://spotify-recently-played-readme.vercel.app/api?user=31qlkrbrxlxyopx5r5pa7ym75srq" target="_blank" rel="noopener noreferrer"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31qlkrbrxlxyopx5r5pa7ym75srq&unique=true&count=7"></a>    
 ---
 
 [![Github Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/ravenastar-js)](https://github.com/ravenastar-js)
