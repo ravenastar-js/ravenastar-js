@@ -1,8 +1,4 @@
 <p align="center"
-<src="https://api.panleyent.com/webence/widget/small/?id=367893062812434432"/><br>
-<img src="https://komarev.com/ghpvc/?username=ravenastar-js&style=for-the-badge&color=blueviolet">
-
-<p align="center"
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravenastar-js&theme=onedark" alt="ravenastar-js" /></a>
 </p>
 
