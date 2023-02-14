@@ -70,8 +70,8 @@ A melhor maneira de entrar em contato comigo é entrando no meu servidor discord
   </details>
 <details>
   <summary>Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenastar-js&layout=compact&theme=dracula"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ravenastar-js&show_icons=true&theme=dracula"><br>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravenastar-js&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenastar-js&layout=compact&theme=chartreuse-dark"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravenastar-js&show_icons=true&theme=chartreuse-dark"><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravenastar-js&theme=tokyonight"><br>
 </details>
 </details>
