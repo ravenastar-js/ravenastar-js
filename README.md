@@ -9,8 +9,11 @@
 Hello World 👋
 
 @@ I'm RavenaStar @@
-# 🎮 Technology lover, developer, musician and more...
-# 👽  Developer by hobby.
+
++ Não perca seu tempo tentando explicar para quem não quer ouvir: concentre-se em quem quer aprender o que você tem a ensinar.
++ Do not waste your time trying to explain to those who do not want to hear: focus on who wants to learn what you have to teach
+
+# 👽 Technology lover, developer, musician and more...
 ```
 
 ### Spotify: Playing now 🎧
