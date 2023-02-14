@@ -9,8 +9,6 @@
 Hello World 👋
 
 @@ I'm RavenaStar @@
-+ 📌 Living in Brazil 🇧🇷.
-! 💻 I'm a computer technician.
 # 🎮 Technology lover, developer, musician and more...
 # 👽  Developer by hobby.
 ```
