@@ -1,20 +1,22 @@
-<p align="center"> 
+<p align="center"
 <src="https://api.panleyent.com/webence/widget/small/?id=367893062812434432"/><br>
 <img src="https://komarev.com/ghpvc/?username=ravenastar-js&style=for-the-badge&color=blueviolet">
+
+<p align="center"
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravenastar-js&theme=onedark" alt="ravenastar-js" /></a>
 </p>
-    <p align="center"
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravenastar-js&theme=onedark" alt="ravenastar-js" /></a> 
- 
-```diff
-Hello World 👋
 
-@@ I'm RavenaStar @@
-
-+ Não perca seu tempo tentando explicar para quem não quer ouvir: concentre-se em quem quer aprender o que você tem a ensinar.
-+ Do not waste your time trying to explain to those who do not want to hear: focus on who wants to learn what you have to teach
-
-# 👽 Technology lover, developer, musician and more...
-```
+<p align="center"
+<br><br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F287&repeat=false&width=435&lines=Hello+World%2C+I'm+RavenaStar." alt="Typing SVG" /></a>
+<br>
+</p>
+<p align="center"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F287&background=0b0b0b&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=60&lines=N%C3%A3o+perca+seu+tempo+tentando+explicar+para+quem+n%C3%A3o+quer+ouvir%3A;concentre-se+em+quem+quer+aprender+o+que+voc%C3%AA+tem+a+ensinar." alt="Typing SVG" /></a>
+</p>
+<p align="center"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F287&background=0b0b0b&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=60&lines=Do+not+waste+your+time+trying+to+explain+to+those+who+do+not+want+to+hear%3A;Focus+on+who+wants+to+learn+what+you+have+to+teach." alt="Typing SVG" /></a>
+</p>
 
 ### Spotify: Playing now 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&redirect=true)
