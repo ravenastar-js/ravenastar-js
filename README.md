@@ -18,7 +18,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F287&background=0b0b0b&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=60&lines=Do+not+waste+your+time+trying+to+explain+to+those+who+do+not+want+to+hear%3A;Focus+on+who+wants+to+learn+what+you+have+to+teach." alt="Typing SVG" /></a>
 </p>
 
-### Spotify: Playing now 🎧
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=57F287&background=0B0B0B00&vCenter=true&multiline=true&repeat=false&width=900&height=60&lines=Spotify%3A+Playing+now+%F0%9F%8E%A7" alt="Typing SVG" /></a>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&redirect=true)
 
 
