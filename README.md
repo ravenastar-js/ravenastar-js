@@ -18,16 +18,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F287&background=0b0b0b&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=60&lines=Do+not+waste+your+time+trying+to+explain+to+those+who+do+not+want+to+hear%3A;Focus+on+who+wants+to+learn+what+you+have+to+teach." alt="Typing SVG" /></a>
 </p>
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=57F287&background=0B0B0B00&vCenter=true&multiline=true&repeat=false&width=900&height=60&lines=Spotify%3A+Playing+now+%F0%9F%8E%A7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=57F287&background=0B0B0B00&vCenter=true&multiline=true&repeat=false&width=900&height=60&lines=Spotify%3A+Playing+now+%F0%9F%8E%A7" alt="Typing SVG" /></a>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&redirect=true)
 
 
 <a href="(https://spotify-recently-played-readme.vercel.app/api?user=31qlkrbrxlxyopx5r5pa7ym75srq" target="_blank" rel="noopener noreferrer"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31qlkrbrxlxyopx5r5pa7ym75srq&unique=true&count=7"></a>    
 ---
 
-[![Github Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/ravenastar-js)](https://github.com/ravenastar-js)
-[![Website Badge](https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienbot.com)](https://www.staralienbot.com)
-[![Discord Badge](https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
+[![Github Badge](https://img.shields.io/badge/-Github-57f287?style=flat-square&labelColor=1b1b1b&logo=Github&logoColor=57f287&link=https://github.com/ravenastar-js)](https://github.com/ravenastar-js)
+[![Website Badge](https://img.shields.io/badge/-WebSite-57f287?style=flat-square&labelColor=1b1b1b&logo=google-chrome&logoColor=57f287&link=https://www.staralienbot.com)](https://www.staralienbot.com)
+[![Discord Badge](https://img.shields.io/badge/-Discord-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
 
 ---
 ![Snake animation](https://github.com/ravenastar-js/ravenastar-js/blob/output/github-contribution-grid-snake.svg)
@@ -40,10 +40,10 @@
 A melhor maneira de entrar em contato comigo é entrando no meu servidor discord e, em seguida, me enviando um DM. Eu não aceito pedidos de amizade.<br>The best way to contact me is by joining my discord server and then sending me a DM. I do not accept friend requests.
 </p>
 <p align="center">
-<a href="https://www.staralienbot.com"><img src="https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienbot.com"/></a>ﾠ
-<a href="https://discord.gg/pAMsAaG"><img src="https://img.shields.io/badge/-Support%20server-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336"/></a>ﾠ
-<a href="https://discord.com/users/367893062812434432"><img src="https://img.shields.io/badge/-!RavenaStar👽-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://discord.com/users/367893062812434432"/></a>ﾠ
-<a href="https://linktr.ee/ravenastar"><img src="https://img.shields.io/badge/-RavenaStar👽-0080FF?style=flat-square&labelColor=0080FF&logo=linktree&logoColor=white&link=https://discord.com/users/367893062812434432"/></a>ﾠ
+<a href="https://www.staralienbot.com"><img src="https://img.shields.io/badge/-WebSite-57f287?style=flat-square&labelColor=1b1b1b&logo=google-chrome&logoColor=57f287&link=https://www.staralienbot.com"/></a>ﾠ
+<a href="https://discord.gg/pAMsAaG"><img src="https://img.shields.io/badge/-Support%20server-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://top.gg/servers/656550731934990336"/></a>ﾠ
+<a href="https://discord.com/users/367893062812434432"><img src="https://img.shields.io/badge/-!RavenaStar👽-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://discord.com/users/367893062812434432"/></a>ﾠ
+<a href="https://linktr.ee/ravenastar"><img src="https://img.shields.io/badge/-RavenaStar👽-57f287?style=flat-square&labelColor=1b1b1b&logo=linktree&logoColor=57f287&link=https://discord.com/users/367893062812434432"/></a>ﾠ
 </p>
 </details>
 <details>
