@@ -7,7 +7,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-57f287?style=flat-square&labelColor=1b1b1b&logo=Github&logoColor=57f287&link=https://github.com/ravenastar-js)](https://github.com/ravenastar-js)
 [![Website Badge](https://img.shields.io/badge/-WebSite-57f287?style=flat-square&labelColor=1b1b1b&logo=google-chrome&logoColor=57f287&link=https://www.staralienbot.com)](https://www.staralienbot.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
-<a href="https://linktr.ee/ravenastar"><img src="https://img.shields.io/badge/-RavenaStar👽-57f287?style=flat-square&labelColor=1b1b1b&logo=linktree&logoColor=57f287&link=https://discord.com/users/367893062812434432"/></a>ﾠ
+<a href="https://linktr.ee/ravenastar"><img src="https://img.shields.io/badge/-RavenaStar-57f287?style=flat-square&labelColor=1b1b1b&logo=linktree&logoColor=57f287&link=https://discord.com/users/367893062812434432"/></a>ﾠ
 <br><br>
 <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F287&background=0b0b0b&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=60&lines=N%C3%A3o+perca+seu+tempo+tentando+explicar+para+quem+n%C3%A3o+quer+ouvir%3A;concentre-se+em+quem+quer+aprender+o+que+voc%C3%AA+tem+a+ensinar." alt="Typing SVG" /></a>
 
