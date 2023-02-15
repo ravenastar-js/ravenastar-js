@@ -1,10 +1,11 @@
-<p align="center"
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravenastar-js&theme=onedark" alt="ravenastar-js" /></a>
-</p>
-
 <div align="center"
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F287&background=57F28700&center=true&vCenter=true&repeat=false&width=435&lines=Hello+World%2C+I'm+RavenaStar.)](https://git.io/typing-svg)
+
+[![Github Badge](https://img.shields.io/badge/-Github-57f287?style=flat-square&labelColor=1b1b1b&logo=Github&logoColor=57f287&link=https://github.com/ravenastar-js)](https://github.com/ravenastar-js)
+[![Website Badge](https://img.shields.io/badge/-WebSite-57f287?style=flat-square&labelColor=1b1b1b&logo=google-chrome&logoColor=57f287&link=https://www.staralienbot.com)](https://www.staralienbot.com)
+[![Discord Badge](https://img.shields.io/badge/-Discord-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
+<a href="https://linktr.ee/ravenastar"><img src="https://img.shields.io/badge/-RavenaStar👽-57f287?style=flat-square&labelColor=1b1b1b&logo=linktree&logoColor=57f287&link=https://discord.com/users/367893062812434432"/></a>ﾠ
 
 <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F287&background=0b0b0b&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=60&lines=N%C3%A3o+perca+seu+tempo+tentando+explicar+para+quem+n%C3%A3o+quer+ouvir%3A;concentre-se+em+quem+quer+aprender+o+que+voc%C3%AA+tem+a+ensinar." alt="Typing SVG" /></a>
 
@@ -17,28 +18,12 @@
 
 <a href="(https://spotify-recently-played-readme.vercel.app/api?user=31qlkrbrxlxyopx5r5pa7ym75srq" target="_blank" rel="noopener noreferrer"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31qlkrbrxlxyopx5r5pa7ym75srq&unique=true&count=7"></a>
   
-[![Github Badge](https://img.shields.io/badge/-Github-57f287?style=flat-square&labelColor=1b1b1b&logo=Github&logoColor=57f287&link=https://github.com/ravenastar-js)](https://github.com/ravenastar-js)
-[![Website Badge](https://img.shields.io/badge/-WebSite-57f287?style=flat-square&labelColor=1b1b1b&logo=google-chrome&logoColor=57f287&link=https://www.staralienbot.com)](https://www.staralienbot.com)
-[![Discord Badge](https://img.shields.io/badge/-Discord-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
-
 ![Snake animation](https://github.com/ravenastar-js/ravenastar-js/blob/output/github-contribution-grid-snake.svg)
 </div>  
 
 <p align="center">
 <details>
   <summary>Mais/More</summary>
-<details>
-  <summary>Contato/Contact</summary>
-<p align="center">
-A melhor maneira de entrar em contato comigo é entrando no meu servidor discord e, em seguida, me enviando um DM. Eu não aceito pedidos de amizade.<br>The best way to contact me is by joining my discord server and then sending me a DM. I do not accept friend requests.
-</p>
-<p align="center">
-<a href="https://www.staralienbot.com"><img src="https://img.shields.io/badge/-WebSite-57f287?style=flat-square&labelColor=1b1b1b&logo=google-chrome&logoColor=57f287&link=https://www.staralienbot.com"/></a>ﾠ
-<a href="https://discord.gg/pAMsAaG"><img src="https://img.shields.io/badge/-Support%20server-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://top.gg/servers/656550731934990336"/></a>ﾠ
-<a href="https://discord.com/users/367893062812434432"><img src="https://img.shields.io/badge/-!RavenaStar👽-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://discord.com/users/367893062812434432"/></a>ﾠ
-<a href="https://linktr.ee/ravenastar"><img src="https://img.shields.io/badge/-RavenaStar👽-57f287?style=flat-square&labelColor=1b1b1b&logo=linktree&logoColor=57f287&link=https://discord.com/users/367893062812434432"/></a>ﾠ
-</p>
-</details>
 <details>
 <p align="center">
 :building_construction: Languages, software, tools and more:
