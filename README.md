@@ -1,6 +1,6 @@
 <div align="center"
 <br>
-<a href="https://discloud.app"><img width="300" src="https://i.imgur.com/QgQYFFB.png&link=https://discloud.app"/></a>ﾠ
+<a href="https://discloud.app"><img width="300" src="https://i.imgur.com/QgQYFFB.png"/></a>ﾠ
 
 ---
 
