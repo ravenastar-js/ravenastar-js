@@ -6,7 +6,6 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F287&background=57F28700&center=true&vCenter=true&repeat=false&width=435&lines=Hello+World%2C+I'm+RavenaStar.)](https://git.io/typing-svg)<br>
-[![Github Badge](https://img.shields.io/badge/-ravenastar&#8208;js-57f287?style=flat-square&labelColor=1b1b1b&logo=Github&logoColor=57f287&link=https://github.com/ravenastar-js)](https://github.com/ravenastar-js)
 [![Website Badge](https://img.shields.io/badge/-RavenaStar-57f287?style=flat-square&labelColor=1b1b1b&logo=google-chrome&logoColor=57f287&link=https://ravenastar-js.github.io)](https://ravenastar-js.github.io)
 [![Website Badge](https://img.shields.io/badge/-StarAlien-57f287?style=flat-square&labelColor=1b1b1b&logo=google-chrome&logoColor=57f287&link=https://staralienbot.com)](https://www.staralienbot.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
