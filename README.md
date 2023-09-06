@@ -10,7 +10,8 @@
 [![Website Badge](https://img.shields.io/badge/-StarAlien-57f287?style=flat-square&labelColor=1b1b1b&logo=google-chrome&logoColor=57f287&link=https://staralienbot.com)](https://www.staralienbot.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
 <a href="https://linktr.ee/ravenastar"><img src="https://img.shields.io/badge/-RavenaStar-57f287?style=flat-square&labelColor=1b1b1b&logo=linktree&logoColor=57f287&link=https://discord.com/users/367893062812434432"/></a>ﾠ
-<br><br>
+
+---
 <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=57F287&center=true&multiline=true&repeat=false&width=500&height=110&lines=N%C3%A3o+perca+seu+tempo+tentando+;explicar+para+quem+n%C3%A3o+quer+ouvir%3A;concentre-se+em+quem+quer+aprender+;o+que+voc%C3%AA+tem+a+ensinar." alt="Typing SVG" /></a>
 
 <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=57F287&center=true&multiline=true&repeat=false&width=500&height=110&lines=Don't+waste+your+time+trying+explain+;to+those+who+don't+want+to+listen%3A;focus+on+those+who+want+to+learn;what+you+have+to+teach." alt="Typing SVG" /></a>
