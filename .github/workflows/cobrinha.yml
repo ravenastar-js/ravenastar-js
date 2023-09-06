@@ -1,8 +1,14 @@
+
+Jobs
+Run details
+Workflow file for this run
+.github/workflows/cobrinha.yml at c239620
 name: generate animation
+
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */24 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
