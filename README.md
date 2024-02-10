@@ -23,12 +23,8 @@
 
 <a href="(https://spotify-recently-played-readme.vercel.app/api?user=31qlkrbrxlxyopx5r5pa7ym75srq" target="_blank" rel="noopener noreferrer"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31qlkrbrxlxyopx5r5pa7ym75srq&unique=true&count=7"></a>
   
-![Snake animation](https://github.com/ravenastar-js/ravenastar-js/blob/output/github-contribution-grid-snake.svg)
 </div>  
 
-<p align="center">
-<details>
-  <summary>Mais/More</summary>
 <details>
 <p align="center">
 :building_construction: Languages, software, tools and more:
@@ -57,4 +53,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ravenastar-js&show_icons=true&theme=chartreuse-dark"><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravenastar-js&theme=tokyonight"><br>
 </details>
-</details>
+
