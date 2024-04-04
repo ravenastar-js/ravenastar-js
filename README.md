@@ -19,8 +19,9 @@
 <br>
 
 ---
-<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=500&color=57F287&center=true&multiline=true&repeat=false&width=600&height=140&lines=N%C3%A3o+perca+seu+tempo+tentando+;explicar+para+quem+n%C3%A3o+quer+ouvir%3A;concentre-se+em+quem+quer+aprender+;o+que+voc%C3%AA+tem+a+ensinar." alt="Typing SVG" /></a>
-<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=500&color=57F287&center=true&multiline=true&repeat=false&width=600&height=140&lines=Don't+waste+your+time+trying+explain+;to+those+who+don't+want+to+listen%3A;focus+on+those+who+want+to+learn;what+you+have+to+teach." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=500&color=57F287&center=true&multiline=true&repeat=false&width=600&height=140&lines=N%C3%A3o+perca+seu+tempo+tentando+;explicar+para+quem+n%C3%A3o+quer+ouvir%3A;concentre-se+em+quem+quer+aprender+;o+que+voc%C3%AA+tem+a+ensinar." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=500&color=57F287&center=true&multiline=true&repeat=false&width=600&height=140&lines=Don't+waste+your+time+trying+explain+;to+those+who+don't+want+to+listen%3A;focus+on+those+who+want+to+learn;what+you+have+to+teach." alt="Typing SVG" />
+
 ---
 
 <div align="center" style="display: inline_block"></br> 
