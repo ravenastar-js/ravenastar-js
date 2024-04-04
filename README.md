@@ -41,8 +41,8 @@
 </div>
 
 <div align="center"></br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ravenastar-js&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenastar-js&layout=compact&langs_count=7&hide_border=true&theme=radical"count_private=true/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ravenastar-js&show_icons=true&theme=dark&count_private=true&hide_border=true&rank_icon=github"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenastar-js&layout=compact&langs_count=7&hide_border=true&theme=dark"count_private=true/>
 </div>
 
 </div> 
