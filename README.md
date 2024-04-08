@@ -53,8 +53,6 @@
 <br>
 <a href="https://discloud.app"><img width="300" src="https://i.imgur.com/QgQYFFB.png"/></a><br>
 <a href="https://discloud.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=600&pause=500&color=57F287&center=true&vCenter=true&multiline=true&width=200&height=60&lines=%E2%96%B2;CLIQUE+AQUI" alt="Typing SVG" /></a>
-<br><br><br>
-<a  href="https://youtube.com/playlist?list=PL9tY_tDo_Q0C0hs1aGgtJbEH1EBlyzZdG"><img src="https://i.imgur.com/glOgZfK.gif" width="650"></a>
 
 <br><br>
 
