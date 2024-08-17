@@ -59,8 +59,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=57F287&center=true&vCenter=true&repeat=false&width=435&lines=Spotify%3A+Playing+now+%F0%9F%8E%A7)](https://open.spotify.com/user/31qlkrbrxlxyopx5r5pa7ym75srq?si=f728ccdae4b145e0)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&redirect=true)
 
 <a href="(https://spotify-recently-played-readme.vercel.app/api?user=31qlkrbrxlxyopx5r5pa7ym75srq" target="_blank" rel="noopener noreferrer"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31qlkrbrxlxyopx5r5pa7ym75srq&unique=true&count=7"></a>
   
