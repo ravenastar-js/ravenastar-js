@@ -4,14 +4,14 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:11f179,100:57f287&height=140&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 </div><br>
 <div align="center">
-
+  <div>
+<img src="https://i.imgur.com/S0wDaNX.png" alt="perfil" width="200px" > <img src="https://i.imgur.com/oRmHLnx.png" alt="ilustração de um computador" width="300px" ><br>
+  </div>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=57F287&background=57F28700&center=true&vCenter=true&repeat=false&width=735&lines=Hello+World%2C+I'm+RavenaStar.)](https://git.io/typing-svg)<br><br>
 
 <br>
 <p align="center">
-<a href="https://tryhackme.com/p/RavenaStar" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/RavenaStar.png" alt="TryHackMe"></a>
-</p>
-<br>
 
 <a href="https://discord.gg/PGmfDBSXC7"><img src="https://img.shields.io/badge/-Discord-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://discord.gg/PGmfDBSXC7" width="120"/></a>ﾠ
 <a href="https://linktr.ee/ravenastar"><img src="https://img.shields.io/badge/-RavenaStar-57f287?style=flat-square&labelColor=1b1b1b&logo=linktree&logoColor=57f287&link=https://discord.com/users/367893062812434432" width="160"/></a>ﾠ
