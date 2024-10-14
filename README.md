@@ -13,7 +13,7 @@
 <br>
 <p align="center">
 
-<a href="https://bsky.app/profile/ravenastar.pages.dev"><img src="https://img.shields.io/badge/-bluesky-57f287?style=flat-square&labelColor=1b1b1b&logo=bluesky&logoColor=57f287&link=https://bsky.app/profile/ravenastar.pages.dev" width="120"/></a>
+<a href="https://bsky.app/profile/ravenastar.bolhatech.blue"><img src="https://img.shields.io/badge/-bluesky-57f287?style=flat-square&labelColor=1b1b1b&logo=bluesky&logoColor=57f287&link=https://bsky.app/profile/ravenastar.pages.dev" width="120"/></a>
 <a href="https://discord.gg/PGmfDBSXC7"><img src="https://img.shields.io/badge/-Discord-57f287?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=57f287&link=https://discord.gg/PGmfDBSXC7" width="120"/></a>
 <a href="https://linktr.ee/ravenastar"><img src="https://img.shields.io/badge/-RavenaStar-57f287?style=flat-square&labelColor=1b1b1b&logo=linktree&logoColor=57f287&link=https://discord.com/users/367893062812434432" width="160"/></a>
 <a href="https://linktr.ee/cybersec_"><img src="https://img.shields.io/badge/-CyberSec-57f287?style=flat-square&labelColor=1b1b1b&logo=linktree&logoColor=57f287&link=https://discord.com/users/367893062812434432" width="150"/></a>ﾠ
