@@ -5,7 +5,7 @@
 </div><br>
 <div align="center">
   <div>
-<img src="https://i.imgur.com/S0wDaNX.png" alt="perfil" width="200px" > <img src="https://i.imgur.com/oRmHLnx.png" alt="ilustração de um computador" width="300px" ><br>
+<img src="https://i.imgur.com/oRmHLnx.png" alt="ilustração de um computador" width="300px" ><br>
   </div>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=57F287&background=57F28700&center=true&vCenter=true&repeat=false&width=735&lines=Hello+World%2C+I'm+RavenaStar.)](https://git.io/typing-svg)<br><br>
