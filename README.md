@@ -41,6 +41,14 @@
 <a href="https://notepad-plus-plus.org/downloads/"><img width="60" src="https://img.icons8.com/color/30/000000/notepad-plus-plus.png"/></a>
 <a href="https://www.virtualbox.org"><img width="60" src="https://img.icons8.com/color/30/000000/virtualbox.png"/></a>
 </div>
+<div align="center" style="display: inline_block"></br>
+<a href="https://devdocs.io/npm/"><img width="60" src="https://skillicons.dev/icons?i=npm"/></a>
+<a href="https://devdocs.io/javascript-regexp/"><img width="60" src="https://skillicons.dev/icons?i=regex"/></a>
+<a href="https://devdocs.io/tailwindcss/"><img width="60" src="https://skillicons.dev/icons?i=tailwind"/></a>
+<a href="https://unity.com/pt"><img width="60" src="https://skillicons.dev/icons?i=unity"/></a>
+<a href="https://www.instagram.com/ravenastar.js"><img width="60" src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://discord.gg/FncVNprdgP"><img width="60" src="https://skillicons.dev/icons?i=discord"/></a>
+</div>
 
 <div align="center"></br>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ravenastar-js&show_icons=true&theme=dark&count_private=true&hide_border=true&rank_icon=github"/>
