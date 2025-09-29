@@ -26,20 +26,20 @@
 ---
 
 <div align="center" style="display: inline_block"></br> 
-<a href="https://javascript.com/"><img width="60" src="https://img.icons8.com/color/30/000000/javascript.png"/></a>
-<a href="https://nodejs.org/en/"><img width="60" src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
-<a href="https://git-scm.com/"><img width="60" src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="60" src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img width="60" src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
-<a href="https://code.visualstudio.com"><img width="60" src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"/></a>
+<a href="https://javascript.com/"><img width="60" src="https://skillicons.dev/icons?i=js"/></a>
+<a href="https://nodejs.org/en/"><img width="60" src="https://skillicons.dev/icons?i=nodejs"/></a>
+<a href="https://git-scm.com/"><img width="60" src="https://skillicons.dev/icons?i=git"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="60" src="https://skillicons.dev/icons?i=html"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img width="60" src="https://skillicons.dev/icons?i=css"/></a>
+<a href="https://code.visualstudio.com"><img width="60" src="https://skillicons.dev/icons?i=vscode"/></a>
 </div>
 <div align="center" style="display: inline_block"></br> 
-<a href="https://docs.mongodb.com"><img width="60" src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
-<a href="https://www.adobe.com/br/products/photoshop"><img width="60" src="https://img.icons8.com/fluent/30/000000/adobe-photoshop.png"/></a>
+<a href="https://docs.mongodb.com"><img width="60" src="https://skillicons.dev/icons?i=mongodb"/></a>
+<a href="https://www.adobe.com/br/products/photoshop"><img width="60" src="https://skillicons.dev/icons?i=ps"/></a>
+<a href="https://www.kali.org/downloads/"><img width="60" src="https://skillicons.dev/icons?i=kali"/></a>
+<a href="https://www.microsoft.com/pt-br/software-download/windows10"><img width="60" src="https://skillicons.dev/icons?i=windows"/></a>
 <a href="https://notepad-plus-plus.org/downloads/"><img width="60" src="https://img.icons8.com/color/30/000000/notepad-plus-plus.png"/></a>
 <a href="https://www.virtualbox.org"><img width="60" src="https://img.icons8.com/color/30/000000/virtualbox.png"/></a>
-<a href="https://www.kali.org/downloads/"><img width="60" src="https://img.icons8.com/color/30/000000/kali-linux.png"/></a>
-<a href="https://www.microsoft.com/pt-br/software-download/windows10"><img width="60" src="https://img.icons8.com/color/30/000000/windows-10.png"/></a>
 </div>
 
 <div align="center"></br>
