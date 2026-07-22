@@ -20,6 +20,7 @@
 <br>
 
 ---
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=500&color=57F287&center=true&multiline=true&repeat=false&width=600&height=140&lines=N%C3%A3o+perca+seu+tempo+tentando+;explicar+para+quem+n%C3%A3o+quer+ouvir%3A;concentre-se+em+quem+quer+aprender+;o+que+voc%C3%AA+tem+a+ensinar." alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=500&color=57F287&center=true&multiline=true&repeat=false&width=600&height=140&lines=Don't+waste+your+time+trying+explain+;to+those+who+don't+want+to+listen%3A;focus+on+those+who+want+to+learn;what+you+have+to+teach." alt="Typing SVG" />
 
@@ -51,8 +52,8 @@
 </div>
 
 <div align="center"></br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ravenastar-js&show_icons=true&theme=dark&count_private=true&hide_border=true&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenastar-js&layout=compact&langs_count=7&hide_border=true&theme=dark"count_private=true/>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=ravenastar-js&show_icons=true&theme=dark&count_private=true&hide_border=true&rank_icon=github"/>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ravenastar-js&layout=compact&langs_count=7&hide_border=true&theme=dark"count_private=true/>
 </div>
 
 </div> 
